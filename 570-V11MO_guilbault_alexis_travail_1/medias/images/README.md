@@ -1,1 +1,1 @@
-
+Stockage des medias photographiques
