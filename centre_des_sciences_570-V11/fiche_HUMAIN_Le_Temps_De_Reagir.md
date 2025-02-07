@@ -16,14 +16,13 @@ Le dispositif présente un capteur de mouvement qui diffuse la silhouette de l'u
 
 <img src="./medias/images/csm_description.jpg" width="50%">
 
-Le dispositif, qui est support pédagogique, est interactif.
-
-<img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
+Le dispositif, un support pédagogique, est interactif.
 
 <img src="./medias/images/csm_vue_ensemble.jpg" width="50%">
 
 Le dispositif se trouve sur le mur extérieur dans le couloir principal de l'exposition. Il occupe environ la moitié de la largeur du couloir.
 
+## Matériel du dispositif
 Le dispositif fonctionne grâce aux composantes suivantes : 
 - Capteur de mouvement
 <img src="./medias/images/csm_capteur.jpg" width="50%">
@@ -35,4 +34,10 @@ Le dispositif fonctionne grâce aux composantes suivantes :
 <img src="./medias/images/csm_tapis_position.jpg" width="50%">
 - Boitier du dispositif
 
+
 Le dispositif ne contient pas de matériel autre fournis par le musée.
+
+<img src="./medias/images/csm_utilisateur_01.jpg" width="50%">
+<img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
+
+## Appréciation du dispositif
