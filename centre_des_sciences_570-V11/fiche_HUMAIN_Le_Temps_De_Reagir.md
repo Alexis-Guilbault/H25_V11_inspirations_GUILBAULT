@@ -12,9 +12,12 @@ Exposition intérieure et permanente visitée le 30 Janvier 2025.
 
 Dispositif créé par la Fondation du Centre des Sciences de Montréal en 2015.
 
-Le dispositif présente un capteur de mouvement qui diffuse la silhouette de l'utilisateur dessus un écran avec un but de soccer. L'utilisateur doit alors bloquer des ballons de soccer en déplaçant son corps. Cependant, il y a un décalage intentionnel entre les mouvements de l'utilisateur et le mouvement de sa silhouette. Plus le dispositif avance, plus le décalage est réduit alors que l'avatar de l'utilisateur "vieillit".
-
 <img src="./medias/images/csm_description.jpg" width="50%">
+
+Le dispositif présente un capteur de mouvement qui diffuse la silhouette de l'utilisateur (qui est placé sur un tapis) dessus un écran avec un but de soccer. L'utilisateur doit alors bloquer des ballons de soccer en déplaçant son corps (Le dispositif réagit en accord à si la silhouette a touché ou non au ballon). Cependant, il y a un décalage intentionnel entre les mouvements de l'utilisateur et le mouvement de sa silhouette. Plus le dispositif avance, plus le décalage est réduit alors que l'avatar de l'utilisateur vieillit virtuellement.
+
+<img src="./medias/images/csm_utilisateur_01.jpg" width="50%">
+<img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
 
 Le dispositif, un support pédagogique, est interactif.
 
@@ -34,10 +37,9 @@ Le dispositif fonctionne grâce aux composantes suivantes :
 <img src="./medias/images/csm_tapis_position.jpg" width="50%">
 - Boitier du dispositif
 
-
 Le dispositif ne contient pas de matériel autre fournis par le musée.
 
-<img src="./medias/images/csm_utilisateur_01.jpg" width="50%">
-<img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
-
 ## Appréciation du dispositif
+Le dispositif a été d'abord enrageant. Je n'avais pas lu au préalable la description du dispositif (comme le public ciblé, beaucoup plus jeune, aurait sûrement fait), je n'avais donc pas réalisé l'intérêt du dispositif ni la volonté derrière le décalage entre les mouvement de l'utilisateur et de la silhouette. L'enragement a fait place à une satisfaction lorsque j'ai réalisé l'intérêt du décalage en question.
+
+Ce qu'il m'a plu, voire inspiré, de ce dispositif est la manière dont il intègre
