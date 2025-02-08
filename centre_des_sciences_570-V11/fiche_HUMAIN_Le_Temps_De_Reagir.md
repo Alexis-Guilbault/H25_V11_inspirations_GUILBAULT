@@ -23,7 +23,7 @@ Le dispositif présente un capteur de mouvement qui diffuse la silhouette de l'u
 <img src="./medias/images/csm_utilisateur_01.jpg" width="50%">
 <img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
 
-*Image de Tristan Guilbault, documenteur multimédia indépendant (alias mon grand frère) joue au dispositif <ins>Le Temps de Réagir</ins>*
+*Image de Tristan Guilbault, documenteur multimédia indépendant (alias mon grand frère) jouant au dispositif <ins>Le Temps de Réagir</ins>*
 
 Le dispositif, un support pédagogique, est interactif.
 
@@ -35,16 +35,22 @@ Le dispositif se trouve sur le mur extérieur dans le couloir principal de l'exp
 
 ## Matériel du dispositif
 Le dispositif fonctionne grâce aux composantes suivantes : 
-- Capteur de mouvement
+- Capteur de mouvement pour détecter l'utilisateur
 <img src="./medias/images/csm_capteur.jpg" width="50%">
+
 *Image du capteur de mouvement*
+
 - Ecran pour diffuser le dispositif
 <img src="./medias/images/csm_ecran.jpg" width="50%">
-- Speaker
-<img src="./medias/images/csm_speaker.jpg" width="50%">
+
+*Image d'un écran*
+
 - Tapis pour le positionnement de l'utilisateur
 <img src="./medias/images/csm_tapis_position.jpg" width="50%">
-- Boitier du dispositif
+
+*Image du tapis positionnement de l'utilisateur*
+
+- Boitier du dispositif pour contenir la majorité des composantes.
 
 Le dispositif ne contient pas de matériel autre fournis par le musée.
 
@@ -55,5 +61,4 @@ Ce qu'il m'a plu, voire inspiré, de ce dispositif est la manière dont il intè
 
 Ce qu'il m'a déplu (et que j'aurais voulu améliorer) est l'esthétique de l'installation. Je comprend parfaitement qu'il ne s'agit qu'un dispositif sur plusieurs. Cependant, je trouve que l'image est... très vide pour un dispositif ciblé à un public plus jeune. J'aurais mis plus d'éléments de fond et plus coloré, en m'assurant de ne pas enlever d'attention sur le but ou le ballon. Ceci permettrait sûrement aux enfants d'être plus attirés vers l'attraction et de la conserver en mémoire plus longtemps, amplifiant la diffusion du message du dispositif.
 
-Sites consultés pour cette documentation : 
 [Site du Centre des Sciences de Montréal](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh9Obn97KLAxUeYEcBHWRxJY8YABAAGgJxdQ&ae=2&co=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5rxFipudPAHi6vbXw86fXZqV2oRTKTk2Y35XHmwokjbj_MCgWfaZoaAh9nEALw_wcB&ohost=www.google.com&cid=CAESVeD2tSrNBVqXaHkhqeAYf17MEwNoTn43T5s2TFoSW-VXp7-nQVjNwLz71bnglRcXEyN6UiLCSbWEjsnFnQuhRMdi3fXitaW4F-dUEspeqB6gXsjACDM&sig=AOD64_2Azj-R_gqfCaLjsnC907iS5beE3A&q&adurl&ved=2ahUKEwinr-Dn97KLAxXHEFkFHbmyIYkQ0Qx6BAgWEAQ)
