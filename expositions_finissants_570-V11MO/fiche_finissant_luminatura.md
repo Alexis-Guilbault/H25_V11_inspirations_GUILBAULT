@@ -45,3 +45,4 @@ L'utilisateur doit entrer dans la pièce de l'installation. Il peut alors commen
 J'ai trouvé que la vidéo projetée dans cette oeuvre multimédia était particulièrement impressionante et sublime. Effectivement, le mouvement des lumières et le changement de couleur a été surprenant. De plus, j'ai aimé le message transmis par cette oeuvre, soit : "Tout le monde a un impact sur son environnement". Le message est bien réel et bien transmis. Finalement, j'ai aimé l'esthétique "nature" du projet.
 
 ### Ce que je ne retiendrais pas du projet
+En attente de voir l'oeuvre final
