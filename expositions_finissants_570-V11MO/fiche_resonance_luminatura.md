@@ -11,6 +11,7 @@ Crédits :
 - Audrey Dandurand, directrice audio visuel et gestionnaire de projet
 - Justine Rousseau, Programmeuse et coordinatrice des medias
 - Ihab Mouhajer, développeur interactif
+*Source : https://youtu.be/i6xJno_NFSc*
 
 Il y a plusieurs lumières dans la pièce et trois plaques avec capteurs. Lorsque la main de l'utilisateur est placée sur la plaque, le contact sera capté et l'audio, ainsi que les lumières, vont être altérés.
 
@@ -36,6 +37,8 @@ L'installation se passerait dans une pièce entière. Il y aurait les trois plaq
 - supports des hauts-parleurs
 - ruban adhésif
 - câbles
+
+*Source : https://miaou-mafia.github.io/projet-luminatura/#/40_maquette/?id=composantes-essentielles-de-la-maquette*
 
 ## Expérience Vécue
 L'utilisateur doit entrer dans la pièce de l'installation. Il peut alors commencer à explorer la pièce. Lorsqu'il intéragit avec les plaques, il est alors supposé réaliser que le contact des plaques modifie les composantes audio et visuelles de l'installation. De là d'autres utilisateurs peuvent venir interagir avec les deux plaques restantes. L'installation reste active tant qu'au moins une personne est en contact avec la plaque, sinon elle retourne à son audio et sa lumière par défault.
