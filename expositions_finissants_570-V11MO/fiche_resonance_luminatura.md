@@ -50,4 +50,5 @@ J'ai trouvé que la vidéo projetée dans cette oeuvre multimédia était partic
 
 ### Ce que je ne retiendrais pas du projet
 (Note : Cette section a été écrite après avoir vu l'exposition finale)
+
 J'ai trouvé qu'il manquait quelque chose à l'oeuvre au final. J'ai été légèrement déçu du peu de mouvement (ou, en tout cas, moins que je m'en rappelais) qu'il y a eu durant l'exposition. Je comprends cependant le fait que les développeurs étaient serrés dans le temps.
