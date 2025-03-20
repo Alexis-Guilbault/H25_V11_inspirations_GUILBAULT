@@ -3,7 +3,7 @@
 mise en exposition au collège montmorency.
 
 ## Description
-installation temporaire et immersive réalisée en 2025.
+Installation immersive réalisée en 2025 faisant partie de l'exposition temporaire Resonance (17 Mars 2025 - 24 Mars 2025).
 
 Crédits :
 - Camilia Bouatmani, directrice artistique
@@ -37,7 +37,6 @@ L'installation se passerait dans une pièce entière. Il y aurait les trois plaq
 - supports des hauts-parleurs
 - ruban adhésif
 - câbles
-
 *Source : https://miaou-mafia.github.io/projet-luminatura/#/40_maquette/?id=composantes-essentielles-de-la-maquette*
 
 ## Expérience Vécue
@@ -48,4 +47,5 @@ L'utilisateur doit entrer dans la pièce de l'installation. Il peut alors commen
 J'ai trouvé que la vidéo projetée dans cette oeuvre multimédia était particulièrement impressionante et sublime. Effectivement, le mouvement des lumières et le changement de couleur a été surprenant. De plus, j'ai aimé le message transmis par cette oeuvre, soit : "Tout le monde a un impact sur son environnement". Le message est bien réel et bien transmis. Finalement, j'ai aimé l'esthétique "nature" du projet.
 
 ### Ce que je ne retiendrais pas du projet
-En attente de voir l'oeuvre final
+(Note : Cette section a été écrite après avoir vu l'exposition finale)
+J'ai trouvé qu'il manquait quelque chose à l'oeuvre au final. J'ai été légèrement déçu du peu de mouvement (ou, en tout cas, moins que je m'en rappelais) qu'il y a eu durant l'exposition. Je comprends cependant le fait que les développeurs étaient serrés dans le temps.
