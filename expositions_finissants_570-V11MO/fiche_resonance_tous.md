@@ -7,9 +7,9 @@ exposition créée par :
 - Kevin Malric, Responsable du développement technique
 - Jérémy Roy Coté, Programmeur de l'interconnectivité
 
--image de l'installation-
+![image](./medias/images/resonance_condu8_devant)
 
--schéma de plantation-
+![image](./medias/images/resonance_condu8_schema)
 
 L'oeuvre était très amusante et le mélange de ludicité et de cardio est vraiment bien fait. L'esthétique est très belle et les techniques sont très impressionantes.
 
@@ -23,9 +23,9 @@ exposition créée par :
 - Abdel Ali Djeral, Programmeur
 - Yavuz-Selim Gucluer, programmeur
 
--image de l'installation-
+![image](./medias/images/resonance_fuga_devant)
 
--schéma de plantation-
+![image](./medias/images/resonance_fuga_schema)
 
 J'ai été surpris du résultat final de cette oeuvre. Lors de la visite de la maquette, c'est celle qui m'avait le moins marqué. Je suis heureux de dire que j'ai été corrigé, le résultat final est vraiment très beau et j'adore le concept du projet.
 
@@ -37,7 +37,9 @@ exposition créée par :
 - Ikrame Rata, Chef de projet
 - Jérémy Duverseau, Directeur artistique
 
-![image](https://github.com/user-attachments/assets/b9df6916-7864-47a7-8e3b-60665896ba1e)
+![image](./medias/images/resonance_prismatica_devant)
+
+![image](./medias/images/resonance_prismatica_schema)
 
 L'installation était bien, mais pas mémorable et sa disposition aurait pu être meilleure.
 
@@ -51,9 +53,9 @@ exposition créée par :
 - Pierre-Luc Proulx, Programmeur, artiste vfx, artiste 3D
 - Maik Hamel, Concepteur sonore et programmeur
 
--image de l'installation-
+![image](./medias/images/resonance_etheria_devant)
 
-![image](https://github.com/user-attachments/assets/378cd641-3670-4ac7-993e-ad342cf34e2c)
+![image](./medias/images/resonance_etheria_schema)
 
 J'aime bien le concept de l'oeuvre, mais je n'ai pas été particulièrement surpris par l'oeuvre. Je le vois plus comme juste un autre projet, c'est dans ceux qui m'ont le moins marqué.
 
@@ -67,9 +69,9 @@ exposition créée par :
 - Sitmonternna Yi
 - Kenza El Harrif
 
--image de l'installation-
+![image](./medias/images/resonance_internature_devant)
 
--schéma de plantation-
+![image](./medias/images/resonance_internature_schema)
 
 L'oeuvre était très belle, mais j'ai l'impression qu'il manquait quelque chose. L'oeuvre semble un petit peu vide.
 
@@ -81,9 +83,9 @@ exposition créée par :
 - William Beauvais, conception visuelle
 - Anton Nikulin, programmation
 
--image de l'installation-
+![image](./medias/images/resonance_arcadia_devant)
 
--schéma de plantation-
+![image](./medias/images/resonance_arcadia_schema)
 
 L'oeuvre n'était pas utilisable lors de ma visite, cependant j'ai aimé l'intention du projet et l'installation finale.
 
