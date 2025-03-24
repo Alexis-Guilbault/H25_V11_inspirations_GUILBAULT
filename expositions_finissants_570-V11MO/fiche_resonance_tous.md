@@ -1,4 +1,4 @@
-[Du second meilleur à celui que j'ai le moins apprécié, excepté Arcadia qui est dernier puisque je n'ai pas pu l'expérimenté.]: #
+[Du second meilleur à celui que j'ai le moins apprécié, excepté Arcadia qui est dernier puisque je n'ai pas pu l'expérimenter.]: #
 # Fiche C0N DU8
 exposition créée par : 
 - Ian Corbin, Concepteur de niveau
@@ -7,9 +7,13 @@ exposition créée par :
 - Kevin Malric, Responsable du développement technique
 - Jérémy Roy Coté, Programmeur de l'interconnectivité
 
-![image](./medias/images/resonance_condu8_devant)
+![image](./medias/images/resonance_condu8_devant.jpg)
 
-![image](./medias/images/resonance_condu8_schema)
+*Aperçu de l'installation*
+
+![image](./medias/images/resonance_condu8_schema.webp)
+
+*Schéma de l'installation*
 
 L'oeuvre était très amusante et le mélange de ludicité et de cardio est vraiment bien fait. L'esthétique est très belle et les techniques sont très impressionantes.
 
@@ -23,9 +27,13 @@ exposition créée par :
 - Abdel Ali Djeral, Programmeur
 - Yavuz-Selim Gucluer, programmeur
 
-![image](./medias/images/resonance_fuga_devant)
+![image](./medias/images/resonance_fuga_devant.jpg)
 
-![image](./medias/images/resonance_fuga_schema)
+*Aperçu de l'installation*
+
+![image](./medias/images/resonance_fuga_schema.png)
+
+*Schéma de l'installation*
 
 J'ai été surpris du résultat final de cette oeuvre. Lors de la visite de la maquette, c'est celle qui m'avait le moins marqué. Je suis heureux de dire que j'ai été corrigé, le résultat final est vraiment très beau et j'adore le concept du projet.
 
@@ -37,9 +45,17 @@ exposition créée par :
 - Ikrame Rata, Chef de projet
 - Jérémy Duverseau, Directeur artistique
 
-![image](./medias/images/resonance_prismatica_devant)
+![image](./medias/images/resonance_prismatica_tableau.jpg)
 
-![image](./medias/images/resonance_prismatica_schema)
+*L'utilisateur dessine sur le tableau*
+
+![image](./medias/images/resonance_prismatica_projection.jpg)
+
+*Et le dessin s'affiche sur la projection*
+
+![image](./medias/images/resonance_prismatica_schema.jpg)
+
+*Schéma de l'installation*
 
 L'installation était bien, mais pas mémorable et sa disposition aurait pu être meilleure.
 
@@ -53,9 +69,13 @@ exposition créée par :
 - Pierre-Luc Proulx, Programmeur, artiste vfx, artiste 3D
 - Maik Hamel, Concepteur sonore et programmeur
 
-![image](./medias/images/resonance_etheria_devant)
+![image](./medias/images/resonance_etheria_devant.jpg)
 
-![image](./medias/images/resonance_etheria_schema)
+*Aperçu de l'installation*
+
+![image](./medias/images/resonance_etheria_schema.jpg)
+
+*Schéma de l'installation*
 
 J'aime bien le concept de l'oeuvre, mais je n'ai pas été particulièrement surpris par l'oeuvre. Je le vois plus comme juste un autre projet, c'est dans ceux qui m'ont le moins marqué.
 
@@ -69,9 +89,13 @@ exposition créée par :
 - Sitmonternna Yi
 - Kenza El Harrif
 
-![image](./medias/images/resonance_internature_devant)
+![image](./medias/images/resonance_internature_devant.jpg)
 
-![image](./medias/images/resonance_internature_schema)
+*Aperçu de l'installation*
+
+![image](./medias/images/resonance_internature_schema.jpg)
+
+*Schéma de l'installation*
 
 L'oeuvre était très belle, mais j'ai l'impression qu'il manquait quelque chose. L'oeuvre semble un petit peu vide.
 
@@ -83,9 +107,15 @@ exposition créée par :
 - William Beauvais, conception visuelle
 - Anton Nikulin, programmation
 
-![image](./medias/images/resonance_arcadia_devant)
+![image](./medias/images/resonance_arcadia_devant.jpg)
 
-![image](./medias/images/resonance_arcadia_schema)
+*Aperçu de l'installation*
+
+![image](./medias/images/resonance_arcadia_jeu.jpg)
+
+*Aperçu du jeu*
+
+(pas de schéma trouvé pour cette installation)
 
 L'oeuvre n'était pas utilisable lors de ma visite, cependant j'ai aimé l'intention du projet et l'installation finale.
 
