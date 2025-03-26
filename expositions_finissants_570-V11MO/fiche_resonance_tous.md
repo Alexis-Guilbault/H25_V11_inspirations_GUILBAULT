@@ -35,8 +35,6 @@ exposition créée par :
 
 J'ai été surpris du résultat final de cette oeuvre. Lors de la visite de la maquette, c'est celle qui m'avait le moins marqué. Je suis heureux de dire que j'ai été corrigé, le résultat final est vraiment très beau et j'adore le concept du projet.
 
-Technique mystère : traduction de son à image.
-
 # Fiche Prismatica
 exposition créée par : 
 - Vincent Delisle, Développeur et concepteur sonore
@@ -52,8 +50,6 @@ exposition créée par :
 *Schéma de l'installation*
 
 L'installation était bien, mais pas mémorable et sa disposition aurait pu être meilleure.
-
-Technique mystère : Faire un son dépendemment de la couleur utilisée
 
 # Fiche Etheria
 exposition créée par : 
@@ -73,8 +69,6 @@ exposition créée par :
 
 J'aime bien le concept de l'oeuvre, mais je n'ai pas été particulièrement surpris par l'oeuvre. Je le vois plus comme juste un autre projet, c'est dans ceux qui m'ont le moins marqué.
 
-Technique mystère : Symboles ArUco
-
 # Fiche Internature
 exposition créée par : 
 - Khaly Tia Sing
@@ -92,8 +86,6 @@ exposition créée par :
 *Schéma de l'installation*
 
 L'oeuvre était très belle, mais j'ai l'impression qu'il manquait quelque chose. L'oeuvre semble un petit peu vide.
-
-Technique mystère : Comment la boule de métal a été utilisée.
 
 # Fiche Arcadia
 exposition créée par : 
@@ -113,8 +105,6 @@ exposition créée par :
 
 L'oeuvre n'était pas utilisable lors de ma visite, cependant j'ai aimé l'intention du projet et l'installation finale.
 
-Technique mystère : La relation entre les boutons d'arcade et le jeu.
-
 # Cours de la technique nécessaire pour faire ses projets
 1- Programmation interactive
 Évidemment, tous les projets rencontrent une forme de programmation à un moment où un autre. De ce fait, je pense qu'il est nécessaire d'avoir le cours d'introduction à la dites programmation.
@@ -127,3 +117,5 @@ Ce cours présente la conception et gestion d'un projet multimedia. Évidemment,
 
 # Technique Mystère
 Pour C0N DU8, la traduction du pédalement de vélo (et la vitesse) en mouvement d'avatar sur le jeu.
+
+Pour faire cela, les développeurs du projet ont installés un voltmètre sur la roue du vélo. L'énergie motrice générée par la roue du vélo est enregistrée dans l'ordinateur et, plus il y a de volts, plus l'avatar avance rapidement. Il y a aussi une camera utilisée pour regarder si l'utilisateur penche à gauche ou à droite, permettant de faire tourner l'avatar dans ses directions.
