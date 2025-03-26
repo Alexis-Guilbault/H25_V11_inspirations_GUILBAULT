@@ -2,10 +2,18 @@
 (visité le 25 Février 2025)
 mise en exposition au collège montmorency.
 
+![image](./medias/images/resonance_luminatura_blanc.png)
+
+*Ensemble de l'installation*
+
 ## Description
 Installation immersive réalisée en 2025 faisant partie de l'exposition temporaire Resonance (17 Mars 2025 - 24 Mars 2025).
 
 Crédits :
+![image](./medias/images/resonance_luminature_credits.png)
+
+*Plaque de credits de l'installation*
+
 - Camilia Bouatmani, directrice artistique
 - Prethiah Rajaratnam, programmeuse et administratrice du projet
 - Audrey Dandurand, directrice audio visuel et gestionnaire de projet
@@ -19,6 +27,10 @@ Il y a plusieurs lumières dans la pièce et trois plaques avec capteurs. Lorsqu
 ## Mise en espace
 L'installation se passerait dans une pièce entière. Il y aurait les trois plaques une à côté de l'autre et devant ceux-ci il y aurait des lanternes et des vignes accrochés au plafond, en plus d'une projection des lumières sur le mur opposé aux plaques ainsi qu'au sol. Les 3 plaques sont illuminés par des lumières blanches.
 
+![image](./medias/images/resonance_luminatura_schema.png)
+
+*Schéma de l'installation*
+
 ## Composantes
 - vignes artificielles en plastique
 - ampoules LED
@@ -31,6 +43,10 @@ L'installation se passerait dans une pièce entière. Il y aurait les trois plaq
 - supports imprimés en 3D
 - carte de son
 - microcontrôleur Atom M5
+
+![image](./medias/images/resonance_luminatura_plaque.png)
+
+*Plaques en acier utilisés lors de l'exposition*
 
 ## Matériel fourni par la place
 - PC
