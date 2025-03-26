@@ -2,7 +2,7 @@
 (visité le 25 Février 2025)
 mise en exposition au collège montmorency.
 
-![image](./medias/images/resonance_luminatura_blanc.jpg)
+![image](./medias/videos/resonance_luminatura_video.mp4)
 
 *Ensemble de l'installation*
 
@@ -10,7 +10,7 @@ mise en exposition au collège montmorency.
 Installation immersive réalisée en 2025 faisant partie de l'exposition temporaire Resonance (17 Mars 2025 - 24 Mars 2025).
 
 Crédits :
-![image](./medias/images/resonance_luminature_credits.jpg)
+![image](./medias/images/resonance_luminatura_credits.jpg)
 
 *Plaque de credits de l'installation*
 
