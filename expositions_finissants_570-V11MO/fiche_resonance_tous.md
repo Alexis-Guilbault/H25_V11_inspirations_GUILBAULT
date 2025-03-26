@@ -17,8 +17,6 @@ exposition créée par :
 
 L'oeuvre était très amusante et le mélange de ludicité et de cardio est vraiment bien fait. L'esthétique est très belle et les techniques sont très impressionantes.
 
-Technique mystère : Traduire le pédalement du vélo stationnaire en commandes.
-
 # Fiche FUGA
 exposition créée par : 
 - Matis Labelle, chargé de projet
@@ -45,13 +43,9 @@ exposition créée par :
 - Ikrame Rata, Chef de projet
 - Jérémy Duverseau, Directeur artistique
 
-![image](./medias/images/resonance_prismatica_tableau.jpg)
+![video](./medias/videos/resonance_prismatica_video.mp4)
 
-*L'utilisateur dessine sur le tableau*
-
-![image](./medias/images/resonance_prismatica_projection.jpg)
-
-*Et le dessin s'affiche sur la projection*
+*Aperçu de l'installation*
 
 ![image](./medias/images/resonance_prismatica_schema.jpg)
 
@@ -89,7 +83,7 @@ exposition créée par :
 - Sitmonternna Yi
 - Kenza El Harrif
 
-![image](./medias/images/resonance_internature_devant.jpg)
+![video](./medias/videos/resonance_internature_video.mp4)
 
 *Aperçu de l'installation*
 
@@ -130,3 +124,6 @@ Ce cours est, selon moi, essentiel pour les installations des finissants. Ils on
 
 3- Conception d'un projet multimédia
 Ce cours présente la conception et gestion d'un projet multimedia. Évidemment, une grande partie de la création d'un projet est sa gestion. Voici pourquoi je trouve ce cours pertinent pour les projets des finissants.
+
+# Technique Mystère
+Pour C0N DU8, la traduction du pédalement de vélo (et la vitesse) en mouvement d'avatar sur le jeu.
