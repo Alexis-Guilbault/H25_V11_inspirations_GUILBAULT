@@ -2,9 +2,9 @@
 (visité le 25 Février 2025)
 mise en exposition au collège montmorency.
 
-![image](./medias/videos/resonance_luminatura_video.mp4)
+![video](./medias/videos/resonance_luminatura_video.mp4)
 
-*Ensemble de l'installation*
+*Vidéo de l'installation*
 
 ## Description
 Installation immersive réalisée en 2025 faisant partie de l'exposition temporaire Resonance (17 Mars 2025 - 24 Mars 2025).
@@ -59,6 +59,10 @@ L'installation se passerait dans une pièce entière. Il y aurait les trois plaq
 
 ## Expérience Vécue
 L'utilisateur doit entrer dans la pièce de l'installation. Il peut alors commencer à explorer la pièce. Lorsqu'il intéragit avec les plaques, il est alors supposé réaliser que le contact des plaques modifie les composantes audio et visuelles de l'installation. De là d'autres utilisateurs peuvent venir interagir avec les deux plaques restantes. L'installation reste active tant qu'au moins une personne est en contact avec la plaque, sinon elle retourne à son audio et sa lumière par défault.
+
+![image](./medias/images/resonance_luminatura_blanc.jpg)
+![image](./medias/images/resonance_luminatura_bleu.jpg)
+![image](./medias/images/resonance_luminatura_rose.jpg)
 
 ## Appréciation du projet
 ### Ce qu'il m'a plu
