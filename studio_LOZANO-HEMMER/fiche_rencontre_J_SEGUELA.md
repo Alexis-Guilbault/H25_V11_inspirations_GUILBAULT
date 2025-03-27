@@ -18,3 +18,5 @@ En troisième lieu «Shadow Tuner» est une oeuvre énormément ambitieuse, il y
 ## Conclusion
 
 Au final, j'ai bien apprécié la conférence vu qu'elle était bien structurée, elle allait droit au clair et elle était captivante. Cependant je ne pense pas que le studio m'intéresse en tant que tel, et je ne pense pas que la conférencière à vraiment réussit à me convaincre du contraire.
+
+![image](./images/shadow_tuner.jpg)
