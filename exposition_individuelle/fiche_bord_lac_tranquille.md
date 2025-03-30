@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a37d3cb-ba3e-47c3-9026-e7061573b294)# <ins>Au Bord du Lac Tranquille</ins>
+# <ins>Au Bord du Lac Tranquille</ins>
 
 ## Patinoire de l'Esplanade Tranquille
 Exposition extérieur et temporaire visitée le 4 Mars 2025 (exposé du 28 novembre 2024 au 9 mars 2025) par Alexis Guilbault et Félix Guilbault.
@@ -21,7 +21,7 @@ Une projection peut être vu sur une moitié de la patinoire montrant différent
 
 *Image de l'oeuvre (point de vue d'un observateur)*
 
-![images](./medias/videos/individuel_videos.jpg)
+![vidéo](./medias/videos/individuel_video.mp4)
 
 *Vidéo de l'oeuvre*
 
