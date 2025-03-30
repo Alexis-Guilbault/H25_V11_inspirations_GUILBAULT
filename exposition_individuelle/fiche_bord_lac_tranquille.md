@@ -1,64 +1,69 @@
-# <ins>Au Bord du Lac Tranquille</ins>
+![image](https://github.com/user-attachments/assets/3a37d3cb-ba3e-47c3-9026-e7061573b294)# <ins>Au Bord du Lac Tranquille</ins>
 
 ## Patinoire de l'Esplanade Tranquille
-[!images](./medias/images/individuel_alexis.jpg)
+Exposition extérieur et temporaire visitée le 4 Mars 2025 (exposé du 28 novembre 2024 au 9 mars 2025) par Alexis Guilbault et Félix Guilbault.
+Créé par Lumino en 2021 (exposé en Décembre 2022 pour la première fois)
+
+![images](./medias/images/individuel_alexis.jpg)
 
 *Image prise devant la patinoire de l'Esplanade Tranquille*
 
-Exposition extérieur et temporaire visitée le 4 Mars 2025.
+![images](./medias/images/individuel_felix.jpg)
 
-# <ins>Le Temps de réagir</ins>
-<img src="./medias/images/csm_vue_ensemble.jpg" width="50%">
+*Image prise dans ma chambre, mais j'avais pas de meilleure photo de mon partenaire Félix Guilbault, patinologue à l'université de Saint-Roch-De-L'Achigan (alias mon petit frère)*
+[(p.s. cette image sert uniquement pour le support visuel lors de la présentation)] : #
 
-*<ins>Le Temps de Réagir</ins>, expositon <ins>Humain</ins>, Centre des Sciences de Montréal*
+## Description de l'oeuvre interactive
 
-Dispositif créé par la Fondation du Centre des Sciences de Montréal en 2015.
+Une projection peut être vu sur une moitié de la patinoire montrant différentes espèces marines telles que des poissons, des baleines ou des tortues. Lorsque les utilisateurs patinent, les espèces marines vont dynamiquement réagir aux utilisateurs et se repositionner en accord. Il y a aussi de la musique de fond pour mieux immerser les utilisateurs. Le but de cette oeuvre est de premièrement expérimenter avec l'interactivité sur une patinoire extérieure, et deuxièmement de célébrer la biodiversité marine.
 
-<img src="./medias/images/csm_description.jpg" width="50%">
+![images](./medias/images/individuel_patinoire.jpg)
 
-*Description du dispositif*
+*Image de l'oeuvre (point de vue d'un observateur)*
 
-Le dispositif présente un capteur de mouvement qui diffuse la silhouette de l'utilisateur (qui est placé sur un tapis) dessus un écran avec un but de soccer. L'utilisateur doit alors bloquer des ballons de soccer en déplaçant son corps (Le dispositif réagit en accord à si la silhouette a touché ou non au ballon). Cependant, il y a un décalage intentionnel entre les mouvements de l'utilisateur et le mouvement de sa silhouette. Plus le dispositif avance, plus le décalage est réduit alors que l'avatar de l'utilisateur vieillit virtuellement.
+![images](./medias/videos/individuel_videos.jpg)
 
-<img src="./medias/images/csm_utilisateur_01.jpg" width="50%">
-<img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
+*Vidéo de l'oeuvre*
 
-*Image de Tristan Guilbault, documenteur multimédia indépendant (alias mon grand frère) jouant au dispositif <ins>Le Temps de Réagir</ins>*
+L'oeuvre occupe la moitié de la patinoire.
 
-Le dispositif, un support pédagogique, est interactif.
+## Matériel de l'oeuvre
+L'oeuvre contient les composantes suivantes : 
+- La patinoire
 
-<img src="./medias/images/csm_vue_ensemble.jpg" width="50%">
+  Il s'agit du canva par lequel la projection est faites
+  
+- Des projecteurs 4K
 
-*Image de la vue d'ensemble du dispositif*
+  Permettent de projeter les images en hautes-qualités
+  ![images](./medias/images/individuel_projecteurs.jpg)
+  
+  *Image des projecteurs*
 
-Le dispositif se trouve sur le mur extérieur dans le couloir principal de l'exposition. Il occupe environ la moitié de la largeur du couloir.
+- Des hauts-parleurs
 
-## Matériel du dispositif
-Le dispositif fonctionne grâce aux composantes suivantes : 
-- Capteur de mouvement pour détecter l'utilisateur
-<img src="./medias/images/csm_capteur.jpg" width="50%">
+  Permettent de jouer une musique relaxante au fil de l'oeuvre
+  ![images](./medias/images/individuel_hauts_parleurs.jpg)
 
-*Image du capteur de mouvement*
+  *Image des hauts-parleurs*
 
-- Ecran pour diffuser le dispositif
-<img src="./medias/images/csm_ecran.jpg" width="50%">
+- Des lidars (capteurs lasers)
 
-*Image d'un écran*
+  Permettent de scanner les mouvements des utilisateurs
+  ![images](./medias/images/individuel_hauts_parleurs.jpg)
 
-- Tapis pour le positionnement de l'utilisateur
-<img src="./medias/images/csm_tapis_position.jpg" width="50%">
+  *Images de lidars*
 
-*Image du tapis positionnement de l'utilisateur*
+- Serveurs
 
-- Boitier du dispositif pour contenir la majorité des composantes.
+  Permettent de gérer l'interactivité de l'oeuvre en repositionnant les animaux aquatiques en temps réel
 
-Le dispositif ne contient pas de matériel autre fournis par le musée.
+## Appréciation et expérience vécue autour de l'oeuvre
+L'expérience vécu était particulièrement mauvaise pour mon cas. Mon grand frère avait oublié qu'on devait aller visiter l'oeuvre la journée même, donc il y a eu du niaisage là-dessus, ça a mené à ce qu'on arrive en retard pour la première diffusion de l'oeuvre du jour donc nous sommes allés au complexe desjardins attendre un heure entière pour la deuxième et dernière diffusion. Lorsque nous y sommes enfin arrivés, nous avions chercher pendant quelques minutes où la diffusion se trouvait. (nous pensions que la projection était sur la patinoire entière) Mes 2 frères essayaient de me convaincre de partir le plus vite possible tout au long de notre observation. Nous y sommes donc restés seulement 5 minutes pour 2+ heures de transport et d'attente. Par ma glacophobie, je n'ai pas pu patiner sur la glace non plus donc c'était purement de l'observation.
 
-## Appréciation du dispositif
-Le dispositif a été d'abord enrageant. Je n'avais pas lu au préalable la description du dispositif (comme le public ciblé, beaucoup plus jeune, aurait sûrement fait), je n'avais donc pas réalisé l'intérêt du dispositif ni la volonté derrière le décalage entre les mouvement de l'utilisateur et de la silhouette. L'enragement a fait place à une satisfaction lorsque j'ai réalisé l'intérêt du décalage en question.
+Ce qu'il m'a plu, c'est l'esthétique de la projection. Elle est vraiemnt très belle et parfois elle à l'air quasiment surréel. De plus, le bleu et le noir sont deux couleurs (le noir est pas une couleur, mais ignorons) qui se mélangent très bien à mon avis et le résultat final est presque toujours beau. Cette projection n'y fait pas exception.
 
-Ce qu'il m'a plu, voire inspiré, de ce dispositif est la manière dont il intègre l'anatomie humaine dans son jeu pour un apprentissage efficace. Dans ce cas, il utilise le décalage entre le cerveau et les muscles d'un enfant montré par le fameux décalage entre les mouvements de l'utilisateur et ceux de son avatar. Ceci me fait penser du potentiel d'utiliser une partie de l'anatomie humaine, ou la psychologie, pour immerser un joueur dans un jeu vidéo ou une installation interactive, entre autres.
+Ce qu'il m'a déplu, c'est l'horaire de diffusion de l'oeuvre. Il est évident que, pour une projection extérieur, l'horaire doit être flexible, mais j'ai l'impression que, vu que l'espace prend la moitié de la patinoire, laisser l'oeuvre rouler du coucher du soleil à genre minuit (comme c'était le cas les années précédentes de ce que j'ai vu), aurait été surement plus plaisant et n'aurait pas forcément déranger les spectateurs vu que, comme dit à maintes reprises, elle ne prend que la moitié de la patinoire, donc ceux qui ne veulent pas y rester sont libres d'aller sur la deuxième moitié sans projection de la patinoire.
 
-Ce qu'il m'a déplu (et que j'aurais voulu améliorer) est l'esthétique de l'installation. Je comprend parfaitement qu'il ne s'agit qu'un dispositif sur plusieurs. Cependant, je trouve que l'image est... très vide pour un dispositif ciblé à un public plus jeune. J'aurais mis plus d'éléments de fond et plus coloré, en m'assurant de ne pas enlever d'attention sur le but ou le ballon. Ceci permettrait sûrement aux enfants d'être plus attirés vers l'attraction et de la conserver en mémoire plus longtemps, amplifiant la diffusion du message du dispositif.
-
-[Site du Centre des Sciences de Montréal](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh9Obn97KLAxUeYEcBHWRxJY8YABAAGgJxdQ&ae=2&co=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5rxFipudPAHi6vbXw86fXZqV2oRTKTk2Y35XHmwokjbj_MCgWfaZoaAh9nEALw_wcB&ohost=www.google.com&cid=CAESVeD2tSrNBVqXaHkhqeAYf17MEwNoTn43T5s2TFoSW-VXp7-nQVjNwLz71bnglRcXEyN6UiLCSbWEjsnFnQuhRMdi3fXitaW4F-dUEspeqB6gXsjACDM&sig=AOD64_2Azj-R_gqfCaLjsnC907iS5beE3A&q&adurl&ved=2ahUKEwinr-Dn97KLAxXHEFkFHbmyIYkQ0Qx6BAgWEAQ)
+[(Source des images libéllés ¹) Site de l'oeuvre](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh9Obn97KLAxUeYEcBHWRxJY8YABAAGgJxdQ&ae=2&co=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5rxFipudPAHi6vbXw86fXZqV2oRTKTk2Y35XHmwokjbj_MCgWfaZoaAh9nEALw_wcB&ohost=www.google.com&cid=CAESVeD2tSrNBVqXaHkhqeAYf17MEwNoTn43T5s2TFoSW-VXp7-nQVjNwLz71bnglRcXEyN6UiLCSbWEjsnFnQuhRMdi3fXitaW4F-dUEspeqB6gXsjACDM&sig=AOD64_2Azj-R_gqfCaLjsnC907iS5beE3A&q&adurl&ved=2ahUKEwinr-Dn97KLAxXHEFkFHbmyIYkQ0Qx6BAgWEAQ)
+[(Source des images libéllés ²) Vidéo «making-of» de l'oeuvre](https://www.youtube.com/watch?v=xB-7hQD6Qww)
