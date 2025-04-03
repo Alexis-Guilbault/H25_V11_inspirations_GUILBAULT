@@ -1,8 +1,11 @@
 # <ins>Au Bord du Lac Tranquille</ins>
 
+![images](./medias/images/individuel_ensemble.jpg)
+
+*Vue aérienne de l'oeuvre²*
+
 ## Patinoire de l'Esplanade Tranquille
 Exposition extérieur et temporaire visitée le 4 Mars 2025 (exposé du 28 novembre 2024 au 9 mars 2025) par Alexis Guilbault et Félix Guilbault.
-Créé par Lumino en 2021 (exposé en Décembre 2022 pour la première fois)
 
 ![images](./medias/images/individuel_alexis.jpg)
 
@@ -12,6 +15,11 @@ Créé par Lumino en 2021 (exposé en Décembre 2022 pour la première fois)
 
 *Image prise dans ma chambre, mais j'avais pas de meilleure photo de mon partenaire Félix Guilbault, patinologue à l'université de Saint-Roch-De-L'Achigan (alias mon petit frère)*
 [(p.s. cette image sert uniquement pour le support visuel lors de la présentation)] : #
+
+Oeuvre créée par Lumino en 2021 (exposé en Décembre 2022 pour la première fois)
+![images](./medias/images/individuel_credits.jpg)
+
+*Credits de l'oeuvre¹*
 
 ## Description de l'oeuvre interactive
 
@@ -50,9 +58,10 @@ L'oeuvre contient les composantes suivantes :
 - Des lidars (capteurs lasers)
 
   Permettent de scanner les mouvements des utilisateurs
-  ![images](./medias/images/individuel_hauts_parleurs.jpg)
+  
+  ![images](./medias/images/individuel_lidars.jpg)
 
-  *Images de lidars*
+  *Images de lidars²*
 
 - Serveurs
 
@@ -65,5 +74,6 @@ Ce qu'il m'a plu, c'est l'esthétique de la projection. Elle est vraiemnt très 
 
 Ce qu'il m'a déplu, c'est l'horaire de diffusion de l'oeuvre. Il est évident que, pour une projection extérieur, l'horaire doit être flexible, mais j'ai l'impression que, vu que l'espace prend la moitié de la patinoire, laisser l'oeuvre rouler du coucher du soleil à genre minuit (comme c'était le cas les années précédentes de ce que j'ai vu), aurait été surement plus plaisant et n'aurait pas forcément déranger les spectateurs vu que, comme dit à maintes reprises, elle ne prend que la moitié de la patinoire, donc ceux qui ne veulent pas y rester sont libres d'aller sur la deuxième moitié sans projection de la patinoire.
 
-[(Source des images libéllés ¹) Site de l'oeuvre](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh9Obn97KLAxUeYEcBHWRxJY8YABAAGgJxdQ&ae=2&co=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5rxFipudPAHi6vbXw86fXZqV2oRTKTk2Y35XHmwokjbj_MCgWfaZoaAh9nEALw_wcB&ohost=www.google.com&cid=CAESVeD2tSrNBVqXaHkhqeAYf17MEwNoTn43T5s2TFoSW-VXp7-nQVjNwLz71bnglRcXEyN6UiLCSbWEjsnFnQuhRMdi3fXitaW4F-dUEspeqB6gXsjACDM&sig=AOD64_2Azj-R_gqfCaLjsnC907iS5beE3A&q&adurl&ved=2ahUKEwinr-Dn97KLAxXHEFkFHbmyIYkQ0Qx6BAgWEAQ)
+[(Source des images libéllés ¹) Site de l'oeuvre]([https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh9Obn97KLAxUeYEcBHWRxJY8YABAAGgJxdQ&ae=2&co=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5rxFipudPAHi6vbXw86fXZqV2oRTKTk2Y35XHmwokjbj_MCgWfaZoaAh9nEALw_wcB&ohost=www.google.com&cid=CAESVeD2tSrNBVqXaHkhqeAYf17MEwNoTn43T5s2TFoSW-VXp7-nQVjNwLz71bnglRcXEyN6UiLCSbWEjsnFnQuhRMdi3fXitaW4F-dUEspeqB6gXsjACDM&sig=AOD64_2Azj-R_gqfCaLjsnC907iS5beE3A&q&adurl&ved=2ahUKEwinr-Dn97KLAxXHEFkFHbmyIYkQ0Qx6BAgWEAQ](https://www.luminomtl.com/fr/activites/videoprojections/au-bord-du-lac-tranquille))
+
 [(Source des images libéllés ²) Vidéo «making-of» de l'oeuvre](https://www.youtube.com/watch?v=xB-7hQD6Qww)
