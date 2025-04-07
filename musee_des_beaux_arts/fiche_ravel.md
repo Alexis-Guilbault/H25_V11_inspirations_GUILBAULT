@@ -4,52 +4,42 @@
 
 Exposition intérieure et temporaire visitée le 3 mars 2025.
 
-# <ins>Le Temps de réagir</ins>
-<img src="./medias/images/csm_vue_ensemble.jpg" width="50%">
+![image](./images/mbam_description.jpg)
 
-*<ins>Le Temps de Réagir</ins>, expositon <ins>Humain</ins>, Centre des Sciences de Montréal*
+*Description de l'œuvre*
 
-Dispositif créé par la Fondation du Centre des Sciences de Montréal en 2015.
+Œuvre créé par Anri Sala en 2017.
 
-<img src="./medias/images/csm_description.jpg" width="50%">
+![image](./images/mbam_credits.jpg)
 
-*Description du dispositif*
+*Crédits de l'oeuvre*
 
-Le dispositif présente un capteur de mouvement qui diffuse la silhouette de l'utilisateur (qui est placé sur un tapis) dessus un écran avec un but de soccer. L'utilisateur doit alors bloquer des ballons de soccer en déplaçant son corps (Le dispositif réagit en accord à si la silhouette a touché ou non au ballon). Cependant, il y a un décalage intentionnel entre les mouvements de l'utilisateur et le mouvement de sa silhouette. Plus le dispositif avance, plus le décalage est réduit alors que l'avatar de l'utilisateur vieillit virtuellement.
+L'utilisateur entre dans la pièce devant 2 écrans parrallèles. À sa gauche il peut aller s'asseoir à un banc où les 2 écrans semi-transparentes se superposent. Les vidéos montrent deux présentation quasi-identiques d'une main jouant du piano. La vidéo dure 20 minutes et 45 secondes et elle joue en boucle. L'utilisateur est libre de venir et quitter quand il veut durant la vidéo.
 
-<img src="./medias/images/csm_utilisateur_01.jpg" width="50%">
-<img src="./medias/images/csm_utilisateur_02.jpg" width="50%">
+![image](./images/mbam_image_01.jpg)
 
-*Image de Tristan Guilbault, documenteur multimédia indépendant (alias mon grand frère) jouant au dispositif <ins>Le Temps de Réagir</ins>*
+*Image de l'oeuvre durant la vidéo*
 
-Le dispositif, un support pédagogique, est interactif.
+L'œuvre est contemplative.
 
-<img src="./medias/images/csm_vue_ensemble.jpg" width="50%">
+![image](./images/mbam_ensemble.jpg)
 
-*Image de la vue d'ensemble du dispositif*
+*Image d'ensemble de l'oeuvre*
 
-Le dispositif se trouve sur le mur extérieur dans le couloir principal de l'exposition. Il occupe environ la moitié de la largeur du couloir.
+L'œuvre se trouve dans une grande pièce isolée. Au-dessus se trouvent tous les hauts-parleurs, au fond à droite se trouve les bancs pour contemplr l'art. On peut très facilement voir les 14 hauts-parleurs et les 2 écrans, révélant directement la mise en scène de l'oeuvre.
 
 ## Matériel du dispositif
-Le dispositif fonctionne grâce aux composantes suivantes : 
-- Capteur de mouvement pour détecter l'utilisateur
-<img src="./medias/images/csm_capteur.jpg" width="50%">
+![image](./images/mbam_ecrans.jpg)
 
-*Image du capteur de mouvement*
+*Image des deux écrans parrallèles*
 
-- Ecran pour diffuser le dispositif
-<img src="./medias/images/csm_ecran.jpg" width="50%">
+L'œuvre fonctionne grâce aux composantes suivantes : 
+- 2 écrans semi-transparents haute-définition (avec des canaux différents)
+- 14 hauts-parleurs (avec des canaux différents)
 
-*Image d'un écran*
+![image](./images/mbam_image_02.jpg)
 
-- Tapis pour le positionnement de l'utilisateur
-<img src="./medias/images/csm_tapis_position.jpg" width="50%">
-
-*Image du tapis positionnement de l'utilisateur*
-
-- Boitier du dispositif pour contenir la majorité des composantes.
-
-Le dispositif ne contient pas de matériel autre fournis par le musée.
+*Autre image de l'oeuvre durant la vidéo*
 
 ## Appréciation du dispositif
 Le dispositif a été d'abord enrageant. Je n'avais pas lu au préalable la description du dispositif (comme le public ciblé, beaucoup plus jeune, aurait sûrement fait), je n'avais donc pas réalisé l'intérêt du dispositif ni la volonté derrière le décalage entre les mouvement de l'utilisateur et de la silhouette. L'enragement a fait place à une satisfaction lorsque j'ai réalisé l'intérêt du décalage en question.
@@ -58,4 +48,6 @@ Ce qu'il m'a plu, voire inspiré, de ce dispositif est la manière dont il intè
 
 Ce qu'il m'a déplu (et que j'aurais voulu améliorer) est l'esthétique de l'installation. Je comprend parfaitement qu'il ne s'agit qu'un dispositif sur plusieurs. Cependant, je trouve que l'image est... très vide pour un dispositif ciblé à un public plus jeune. J'aurais mis plus d'éléments de fond et plus coloré, en m'assurant de ne pas enlever d'attention sur le but ou le ballon. Ceci permettrait sûrement aux enfants d'être plus attirés vers l'attraction et de la conserver en mémoire plus longtemps, amplifiant la diffusion du message du dispositif.
 
-[Site du Centre des Sciences de Montréal](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjh9Obn97KLAxUeYEcBHWRxJY8YABAAGgJxdQ&ae=2&co=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5rxFipudPAHi6vbXw86fXZqV2oRTKTk2Y35XHmwokjbj_MCgWfaZoaAh9nEALw_wcB&ohost=www.google.com&cid=CAESVeD2tSrNBVqXaHkhqeAYf17MEwNoTn43T5s2TFoSW-VXp7-nQVjNwLz71bnglRcXEyN6UiLCSbWEjsnFnQuhRMdi3fXitaW4F-dUEspeqB6gXsjACDM&sig=AOD64_2Azj-R_gqfCaLjsnC907iS5beE3A&q&adurl&ved=2ahUKEwinr-Dn97KLAxXHEFkFHbmyIYkQ0Qx6BAgWEAQ)
+![image](./images/mbam_cartel.jpg)
+
+*Cartel de l'oeuvre*
