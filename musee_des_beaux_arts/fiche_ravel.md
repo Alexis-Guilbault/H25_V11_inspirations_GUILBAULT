@@ -42,11 +42,11 @@ L'œuvre fonctionne grâce aux composantes suivantes :
 *Autre image de l'oeuvre durant la vidéo*
 
 ## Appréciation du dispositif
-Le dispositif a été d'abord enrageant. Je n'avais pas lu au préalable la description du dispositif (comme le public ciblé, beaucoup plus jeune, aurait sûrement fait), je n'avais donc pas réalisé l'intérêt du dispositif ni la volonté derrière le décalage entre les mouvement de l'utilisateur et de la silhouette. L'enragement a fait place à une satisfaction lorsque j'ai réalisé l'intérêt du décalage en question.
+L'œuvre est un petit peu ennuyante, dans le sens où il n'y a pas grand chose à faire à part regarder. Évidemment il s'agit du principe d'un musée, cependant l'œuvre ne montre qu'un homme jouant du piano avec un petit revirement à la fin, mais il ne compense pas le fait que la vidéo dure 20 minutes, ce qui est infuriant lorsque tu dois la regarder en son entièreté.
 
-Ce qu'il m'a plu, voire inspiré, de ce dispositif est la manière dont il intègre l'anatomie humaine dans son jeu pour un apprentissage efficace. Dans ce cas, il utilise le décalage entre le cerveau et les muscles d'un enfant montré par le fameux décalage entre les mouvements de l'utilisateur et ceux de son avatar. Ceci me fait penser du potentiel d'utiliser une partie de l'anatomie humaine, ou la psychologie, pour immerser un joueur dans un jeu vidéo ou une installation interactive, entre autres.
+Ce qu'il m'a impressionné, c'est que l'œuvre contient 14 canaux sonores et la musique est très bonne. La tonalité était très bien présente toute au long de l'œuvre.
 
-Ce qu'il m'a déplu (et que j'aurais voulu améliorer) est l'esthétique de l'installation. Je comprend parfaitement qu'il ne s'agit qu'un dispositif sur plusieurs. Cependant, je trouve que l'image est... très vide pour un dispositif ciblé à un public plus jeune. J'aurais mis plus d'éléments de fond et plus coloré, en m'assurant de ne pas enlever d'attention sur le but ou le ballon. Ceci permettrait sûrement aux enfants d'être plus attirés vers l'attraction et de la conserver en mémoire plus longtemps, amplifiant la diffusion du message du dispositif.
+Ce qu'il m'a déplu c'est, en fait, même pas en rapport à l'œuvre, mais par rapport au contexte de la visite de l'œuvre. Lors de la visite du musée, cette œuvre (que j'ai dû regarder en entier malgré le fait qu'elle est très redondante) et une seule autre œuvre ont été visités, ne compensant pas tant le transport ou la préparation pour la visite du musée.
 
 ![image](./images/mbam_cartel.jpg)
 
