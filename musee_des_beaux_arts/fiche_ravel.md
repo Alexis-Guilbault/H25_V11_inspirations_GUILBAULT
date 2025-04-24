@@ -53,3 +53,5 @@ Ce qu'il m'a déplu c'est, en fait, même pas en rapport à l'œuvre, mais par r
 *Cartel de l'oeuvre*
 
 Toutes les images ont été prises par moi.
+
+Note : À cause de la luminosité faible, plusieurs photos ont finis très flous ou de mauvaise qualité, oops.
